@@ -1,5 +1,5 @@
 <?php
 
-    header('Location: https://design.oaklandca.gov/0');
+    header('Location: https://design.oaklandca.gov/0/');
 
 ?>
